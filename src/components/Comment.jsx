@@ -21,7 +21,7 @@ export function Comment() {
               <Trash size={24} />
             </button>
           </header>
-          <p>Muito bom Devon, Parabens</p>
+          <p>Muito bom Devon, Parabens Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi obcaecati numquam eveniet neque at in assumenda cum unde! Ut, nobis quos. Ratione aspernatur quas doloribus ex earum fugiat! Ab, excepturi.</p>
         </div>
         <footer>
           <button>

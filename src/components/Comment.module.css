@@ -36,7 +36,7 @@
   display: block;
   font-size: 0.75rem;
   line-height: 1.6;
-  color: var(--gray-400)
+  color: var(--gray-400);
 }
 
 .commentContent header button {
@@ -56,6 +56,7 @@
 .commentContent p {
   margin-top: 1rem;
   color: var(--gray-300);
+  max-width: 52rem;
 }
 
 .commentBox footer {
@@ -82,7 +83,7 @@
 }
 
 .commentBox footer button span::before {
-  content: "\2022";
+  content: '\2022';
   padding: 0 0.25rem;
   border-radius: 2px;
 }
